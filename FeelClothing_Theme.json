@@ -1,0 +1,13 @@
+{
+  "name": "Feel Clothing",
+  "dataColors": ["#0F7B8A", "#E07A1F", "#1F2A44", "#8A94A6", "#4FB0C6", "#F2B66D"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2A44",
+  "tableAccent": "#0F7B8A",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "title": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "label": { "fontSize": 10, "fontFace": "Segoe UI", "color": "#1F2A44" }
+  }
+}
