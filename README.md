@@ -2,16 +2,6 @@
 
 An end-to-end analytics project for a clothing retailer, built from a CEO-style brief. I loaded the raw data into SQL Server, checked its quality, answered 14 business questions in SQL, modeled it in Power BI and built a 3-page interactive dashboard with a one-page executive summary.
 
-**Live interactive version:** _add your link here_
-
-## Data
-
-| Table | Content | Rows |
-|---|---|---|
-| `Fact_Sales` | One row per order: date, product, color, size, quantity, price, discount, delivery, gift wrap, revenue, cost, profit | 1,500 |
-| `Dim_Customers` | Customer, city, gender, segment (New / Regular / VIP) | 1,000 |
-| `Dim_Products` | Category (T-shirt, Polo, Sweatshirt, Hoodie), unit cost, unit price | 4 |
-
 Headline numbers: revenue 65,496.75, net profit 42,140.75 (64.3% margin), 1,500 orders, 2,362 units, average order value 43.66.
 
 ## Business questions answered
